@@ -1,5 +1,8 @@
 # History
 
+## V0.1.1 (2026-10-19)
+- 确定主页 Bio 文案：英文 `UX to business ｜ AI Product Manager`；中文 `从用户体验到商业落地 ｜ AI产品经理`（填写在 GitHub Settings 账户信息中）
+
 ## V0.1.0 (2026-10-19)
 - 创建 GitHub 主页 README（英文版 `README.md` + 中文版 `README.zh-CN.md`），仿照参考主页结构
 - 自我介绍主线：从用户体验到商业落地
