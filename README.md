@@ -12,6 +12,9 @@
   <p>
     <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a>
   </p>
+  <p>
+    🏠 <a href="https://lcnf1nf2xo4j.doubao.link/app/app_17gceh40g9k"><strong>个人主页 / Personal Homepage</strong></a>
+  </p>
 </div>
 
 ---
