@@ -1,5 +1,10 @@
 # History
 
+## V0.3.3 (2026-10-20)
+- 修复英文版 Hero 的 XML 转义 Bug：`AI Product Builder & Educator` 中的 `&` 未转义导致 GitHub 渲染报 xmlParseEntityRef 错误（线上英文版角色卡图显示异常）
+- 生成脚本 build_variants.py 增加 `esc()` 转义函数，所有文本输出统一转义
+- 预览页文案更新：英文标题两行「Hi, I'm Hyejeong. / AI Product Builder & Educator」，中文标题两行「HI ! 我是王惠晶👋 / AI 产品经理 & 独立开发者」，副标题字号 20px
+
 ## V0.3.2 (2026-10-19)
 - 新增「冒险地图」组件（ADVENTURE MAP / 冒险地图）：像素 RPG 风格 52 周贡献热力图（map-contributions-{en,zh}-light.svg）+ 配套分区标题（section-map-{en,zh}-light.svg）
 - README 结构插入位置：技术栈（已装备）之后、任务日志之前
