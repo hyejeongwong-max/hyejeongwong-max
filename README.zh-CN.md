@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0969DA&center=true&pause=100000&width=620&lines=Hi%2C+I'm+%5BYour+Name%5D.+%5BYour+Title%5D" alt="你好，我是[你的名字]，[你的头衔]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0969DA&center=true&pause=100000&width=620&lines=Hi%2C+I'm+%5BYour+Name%5D.+%5BYour+Title%5D" alt="用AI做点什么···" />
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="挥手" />
     <strong>[一句话介绍：例如 把 AI 方法做成可复用的 Skill、课程和真正能用的产品。]</strong>
