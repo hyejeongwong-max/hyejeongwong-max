@@ -1,5 +1,10 @@
 # History
 
+## V0.3.2 (2026-10-19)
+- 新增「冒险地图」组件（ADVENTURE MAP / 冒险地图）：像素 RPG 风格 52 周贡献热力图（map-contributions-{en,zh}-light.svg）+ 配套分区标题（section-map-{en,zh}-light.svg）
+- README 结构插入位置：技术栈（已装备）之后、任务日志之前
+- 地图数据为确定性示例数据，SVG 内已标注可替换为真实贡献数据
+
 ## V0.3.1 (2026-10-19)
 - Hero 排版从左右分栏改为上下排版：角色卡在上、技能栏整排在下（画布 1200×640）
 - 角色人设文案更新为 AI 产品方向：`AI Product Builder & Educator` / `AI 产品构建者与布道者`

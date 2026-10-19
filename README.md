@@ -1,4 +1,4 @@
-<!-- 个人主页 README V0.3.0｜像素 RPG 角色卡风格（浅色）｜个人信息与项目均为占位，请自行替换 [方括号] 内容 -->
+<!-- 个人主页 README V0.3.2｜像素 RPG 角色卡风格（浅色）｜个人信息与项目均为占位，请自行替换 [方括号] 内容 -->
 <p align="center">
   <img src="./assets/readme/hero-hyejeongwong-max-en-light.svg" width="100%" alt="HYEJEONGWONG-MAX player card — AI Product Manager">
 </p>
@@ -24,6 +24,14 @@
   <code>[Tag 3]</code>
   <code>[Tag 4]</code>
 </div>
+
+---
+<p align="center">
+  <img src="./assets/readme/section-map-en-light.svg" width="100%" alt="ADVENTURE MAP — CONTRIBUTIONS">
+</p>
+<p align="center">
+  <img src="./assets/readme/map-contributions-en-light.svg" width="100%" alt="Adventure map — 52-week contribution heatmap (sample data, replace with your real data)">
+</p>
 
 ---
 <p align="center">

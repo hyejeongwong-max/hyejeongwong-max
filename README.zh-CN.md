@@ -1,4 +1,4 @@
-<!-- 个人主页 README V0.3.0｜像素 RPG 角色卡风格（浅色）｜个人信息与项目均为占位，请自行替换 [方括号] 内容 -->
+<!-- 个人主页 README V0.3.2｜像素 RPG 角色卡风格（浅色）｜个人信息与项目均为占位，请自行替换 [方括号] 内容 -->
 <p align="center">
   <img src="./assets/readme/hero-hyejeongwong-max-zh-light.svg" width="100%" alt="HYEJEONGWONG-MAX 玩家角色卡 — AI 产品经理">
 </p>
@@ -24,6 +24,14 @@
   <code>[标签3]</code>
   <code>[标签4]</code>
 </div>
+
+---
+<p align="center">
+  <img src="./assets/readme/section-map-zh-light.svg" width="100%" alt="冒险地图 — 贡献记录">
+</p>
+<p align="center">
+  <img src="./assets/readme/map-contributions-zh-light.svg" width="100%" alt="冒险地图 — 52 周贡献热力（示例数据，可替换为真实数据）">
+</p>
 
 ---
 <p align="center">
