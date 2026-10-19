@@ -1,21 +1,40 @@
-# 你好，我是王惠晶 👋
-
-[English](README.md) · **中文**
-
-我从用户体验出发，走向商业落地。  
-我做让好体验真正产生商业价值的产品。  
-用户体验本身不是终点。  
-它是我理解用户、做更好产品决策的底层视角。
-
-📕 [小红书](https://xhslink.cn/o/2AAY2RQlLGq) · ✉️ [邮箱](mailto:wanghuij6670@163.com)
-
----
-
-<!-- ## ⭐ 精选项目 -->
-<!-- 从体验与产品视角出发。 (待补充) -->
-
-<!-- ## ✍️ 写作 -->
-<!-- 我从体验与产品的双重视角讨论产品。 (待补充) -->
-
-<!-- ## 关于我 -->
-<!-- (待补充) -->
+<!-- 个人主页 README V0.2.0｜样式参考 chusimin，个人信息与项目均为占位，请自行替换 [方括号] 内容 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0969DA&center=true&pause=100000&width=620&lines=Hi%2C+I'm+%5BYour+Name%5D.+%5BYour+Title%5D" alt="你好，我是[你的名字]，[你的头衔]" />
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="挥手" />
+    <strong>[一句话介绍：例如 把 AI 方法做成可复用的 Skill、课程和真正能用的产品。]</strong>
+  </p>
+  <p>
+    <code>[标签1]</code>
+    <code>[标签2]</code>
+    <code>[标签3]</code>
+    <code>[标签4]</code>
+  </p>
+  <p>
+    <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a>
+  </p>
+</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+#### 💼 我在做什么
+- **[工作项1]** — [描述]
+- **[工作项2]** — [描述]
+- **[工作项3]** — [描述]
+- **[工作项4]** — [描述]
+> ✍️ [查看我的文章 →]([你的文章链接])
+</td>
+<td valign="top" width="50%">
+#### 💻 代表开源项目
+- 🧰 **[项目一]** — [项目简介]
+- 🎬 **[项目二]** — [项目简介]
+- 🪞 **[项目三]** — [项目简介]
+- 🍭 **[项目四]** — [项目简介]
+> 🗂️ [查看全部仓库 →](https://github.com/hyejeongwong-max?tab=repositories)
+</td>
+</tr>
+</table>
+<div align="center">
+  <sub><strong>[你的个人标语：例如 先讲明白，再做有用，最后真正落地。]</strong></sub>
+</div>
