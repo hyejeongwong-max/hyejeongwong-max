@@ -1,143 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
-  <title id="title">HYEJEONGWONG-MAX — Player Card (EN)</title>
-  <desc id="desc">像素 RPG 角色卡（上下排版）：角色信息在上、技能栏在下。</desc>
-  <defs>
-    <pattern id="dotgrid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <rect width="24" height="24" fill="#ffffff"/>
-      <rect x="10" y="10" width="4" height="4" fill="#d0d7de"/>
-    </pattern>
-    <pattern id="pixgreen" width="10" height="10" patternUnits="userSpaceOnUse">
-      <rect width="8" height="10" fill="#1a7f37"/>
-    </pattern>
-    <pattern id="pixblue" width="10" height="10" patternUnits="userSpaceOnUse">
-      <rect width="8" height="10" fill="#0969da"/>
-    </pattern>
-    <pattern id="pixgold" width="10" height="10" patternUnits="userSpaceOnUse">
-      <rect width="8" height="10" fill="#9e6a03"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="640" rx="28" fill="#ffffff"/>
-  <rect width="1200" height="640" rx="28" fill="url(#dotgrid)"/>
-  <rect x="1" y="1" width="1198" height="638" rx="27" fill="none" stroke="#d0d7de" stroke-width="2"/>
-<rect x="1060" y="30" width="72" height="72" fill="#d45a08" fill-opacity="0.08"/>
-<rect x="40" y="560" width="120" height="24" fill="#1a7f37" fill-opacity="0.08"/>
-  <g id="player-card" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
-    <rect x="550" y="28" width="100" height="116" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="584" y="30" width="8" height="8" fill="#ffe08a"/>
-        <rect x="576" y="38" width="8" height="8" fill="#ffe08a"/>
-        <rect x="584" y="38" width="8" height="8" fill="#ffe08a"/>
-        <rect x="592" y="38" width="8" height="8" fill="#ffe08a"/>
-        <rect x="576" y="46" width="8" height="8" fill="#f2b01e"/>
-        <rect x="584" y="46" width="8" height="8" fill="#f2b01e"/>
-        <rect x="592" y="46" width="8" height="8" fill="#f2b01e"/>
-        <rect x="568" y="54" width="8" height="8" fill="#f2b01e"/>
-        <rect x="576" y="54" width="8" height="8" fill="#f2b01e"/>
-        <rect x="584" y="54" width="8" height="8" fill="#e8590c"/>
-        <rect x="592" y="54" width="8" height="8" fill="#e8590c"/>
-        <rect x="600" y="54" width="8" height="8" fill="#f2b01e"/>
-        <rect x="560" y="62" width="8" height="8" fill="#f2b01e"/>
-        <rect x="568" y="62" width="8" height="8" fill="#f2b01e"/>
-        <rect x="576" y="62" width="8" height="8" fill="#e8590c"/>
-        <rect x="584" y="62" width="8" height="8" fill="#e8590c"/>
-        <rect x="592" y="62" width="8" height="8" fill="#e8590c"/>
-        <rect x="600" y="62" width="8" height="8" fill="#e8590c"/>
-        <rect x="608" y="62" width="8" height="8" fill="#f2b01e"/>
-        <rect x="560" y="70" width="8" height="8" fill="#f2b01e"/>
-        <rect x="568" y="70" width="8" height="8" fill="#e8590c"/>
-        <rect x="576" y="70" width="8" height="8" fill="#e8590c"/>
-        <rect x="584" y="70" width="8" height="8" fill="#e8590c"/>
-        <rect x="592" y="70" width="8" height="8" fill="#e8590c"/>
-        <rect x="600" y="70" width="8" height="8" fill="#e8590c"/>
-        <rect x="608" y="70" width="8" height="8" fill="#e8590c"/>
-        <rect x="616" y="70" width="8" height="8" fill="#f2b01e"/>
-        <rect x="568" y="78" width="8" height="8" fill="#f2b01e"/>
-        <rect x="576" y="78" width="8" height="8" fill="#e8590c"/>
-        <rect x="584" y="78" width="8" height="8" fill="#e8590c"/>
-        <rect x="592" y="78" width="8" height="8" fill="#e8590c"/>
-        <rect x="600" y="78" width="8" height="8" fill="#e8590c"/>
-        <rect x="608" y="78" width="8" height="8" fill="#e8590c"/>
-        <rect x="616" y="78" width="8" height="8" fill="#e8590c"/>
-        <rect x="576" y="86" width="8" height="8" fill="#f2b01e"/>
-        <rect x="584" y="86" width="8" height="8" fill="#e8590c"/>
-        <rect x="592" y="86" width="8" height="8" fill="#e8590c"/>
-        <rect x="600" y="86" width="8" height="8" fill="#e8590c"/>
-        <rect x="608" y="86" width="8" height="8" fill="#f2b01e"/>
-        <rect x="584" y="94" width="8" height="8" fill="#f2b01e"/>
-        <rect x="592" y="94" width="8" height="8" fill="#e8590c"/>
-        <rect x="600" y="94" width="8" height="8" fill="#f2b01e"/>
-        <rect x="600" y="102" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="584" y="110" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="592" y="110" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="600" y="110" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="584" y="118" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="592" y="118" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="600" y="118" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="584" y="126" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="592" y="126" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="600" y="126" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="584" y="134" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="592" y="134" width="8" height="8" fill="#9c6b3f"/>
-        <rect x="600" y="134" width="8" height="8" fill="#9c6b3f"/>
-    <text x="600" y="168" text-anchor="middle" font-size="14" letter-spacing="4" fill="#57606a">PLAYER CARD  ·  AI PRODUCT BUILDER</text>
-    <text x="600" y="220" text-anchor="middle" font-size="50" font-weight="800" letter-spacing="2" fill="#1f2328">HYEJEONGWONG-MAX</text>
-    <text x="600" y="254" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="20" fill="#57606a">AI Product Builder &amp; Educator</text>
-    <rect x="542" y="272" width="116" height="30" rx="4" fill="#fff3d1" stroke="#d4a72c" stroke-width="1.5"/>
-    <text x="600" y="292" text-anchor="middle" font-size="18" font-weight="800" fill="#9e6a03">LV.∞</text>
-    <text x="388" y="329" text-anchor="end" font-size="15" font-weight="700" letter-spacing="2" fill="#1f2328">STREAK</text>
-    <rect x="400" y="318" width="360" height="14" rx="2" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-    <rect x="400" y="318" width="169" height="14" fill="url(#pixgreen)"/>
-    <rect x="565" y="318" width="4" height="14" fill="#1a7f37"/>
-    <text x="774" y="329" font-size="15" font-weight="700" fill="#57606a">14 DAYS</text>
-    <text x="388" y="353" text-anchor="end" font-size="15" font-weight="700" letter-spacing="2" fill="#1f2328">CONTRIB</text>
-    <rect x="400" y="342" width="360" height="14" rx="2" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-    <rect x="400" y="342" width="313" height="14" fill="url(#pixblue)"/>
-    <rect x="709" y="342" width="4" height="14" fill="#0969da"/>
-    <text x="774" y="353" font-size="15" font-weight="700" fill="#57606a">872</text>
-    <text x="388" y="377" text-anchor="end" font-size="15" font-weight="700" letter-spacing="2" fill="#1f2328">STARS</text>
-    <rect x="400" y="366" width="360" height="14" rx="2" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-    <rect x="400" y="366" width="108" height="14" fill="url(#pixgold)"/>
-    <rect x="504" y="366" width="4" height="14" fill="#9e6a03"/>
-    <text x="774" y="377" font-size="15" font-weight="700" fill="#57606a">18 XP</text>
-  </g>
-  <rect x="60" y="398" width="1080" height="2" fill="#d0d7de"/>
-  <g id="skill-slots" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
-    <text x="600" y="430" text-anchor="middle" font-size="22" font-weight="800" letter-spacing="3" fill="#1f2328">SKILL SLOTS</text>
-    <text x="600" y="452" text-anchor="middle" font-size="13" letter-spacing="2" fill="#57606a">[ INVENTORY ]</text>
-    <rect x="46" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="102" y="480" width="16" height="16" fill="#3776AB"/>
-    <rect x="106" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="110" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">PY</text>
-    <rect x="186" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="242" y="480" width="16" height="16" fill="#EE4C2C"/>
-    <rect x="246" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="250" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">TORCH</text>
-    <rect x="326" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="382" y="480" width="16" height="16" fill="#76B900"/>
-    <rect x="386" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="390" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">CUDA</text>
-    <rect x="466" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="522" y="480" width="16" height="16" fill="#FCC624"/>
-    <rect x="526" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="530" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">LINUX</text>
-    <rect x="606" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="662" y="480" width="16" height="16" fill="#F05032"/>
-    <rect x="666" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="670" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">GIT</text>
-    <rect x="746" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="802" y="480" width="16" height="16" fill="#D97757"/>
-    <rect x="806" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="810" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">CLAUDE</text>
-    <rect x="886" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="942" y="480" width="16" height="16" fill="#8B5CF6"/>
-    <rect x="946" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="950" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">CODEX</text>
-    <rect x="1026" y="468" width="128" height="72" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="1082" y="480" width="16" height="16" fill="#64748B"/>
-    <rect x="1086" y="484" width="6" height="6" fill="#ffffff" fill-opacity="0.5"/>
-    <text x="1090" y="516" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">CURSOR</text>
-    <rect x="150" y="560" width="900" height="52" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-    <rect x="166" y="572" width="10" height="10" fill="#1a7f37"/>
-    <text x="188" y="582" font-size="16" font-weight="800" fill="#1f2328">STATUS: BUILDING</text>
-    <text x="166" y="600" font-size="13" fill="#57606a">SAVE POINT: main  ·  MODE: hardcore</text>
-  </g>
-</svg>
+<!-- 个人主页 README V0.3.2｜像素 RPG 角色卡风格（浅色）｜个人信息与项目均为占位，请自行替换 [方括号] 内容 -->
+<p align="center">
+  <img src="./assets/readme/hero-hyejeongwong-max-en-light.svg" width="100%" alt="HYEJEONGWONG-MAX player card — AI Product Manager">
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0969DA&center=true&pause=100000&width=620&lines=Hi%2C+I'm+%5BYour+Name%5D.+%5BYour+Title%5D" alt="Hi, I'm [Your Name]. [Your Title]" />
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="Waving hand" />
+    <strong>[One-line intro: e.g. I turn AI methods into reusable Skills, courses, and working products.]</strong>
+  </p>
+  <p>
+    <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a>
+  </p>
+</div>
+
+---
+<p align="center">
+  <img src="./assets/readme/section-tech-stack-en-light.svg" width="100%" alt="TECH STACK — EQUIPPED">
+</p>
+<div align="center">
+  <code>[Tag 1]</code>
+  <code>[Tag 2]</code>
+  <code>[Tag 3]</code>
+  <code>[Tag 4]</code>
+</div>
+
+---
+<p align="center">
+  <img src="./assets/readme/section-map-en-light.svg" width="100%" alt="ADVENTURE MAP — CONTRIBUTIONS">
+</p>
+<p align="center">
+  <img src="./assets/readme/map-contributions-en-light.svg" width="100%" alt="Adventure map — 52-week contribution heatmap (sample data, replace with your real data)">
+</p>
+
+---
+<p align="center">
+  <img src="./assets/readme/section-focus-en-light.svg" width="100%" alt="QUEST LOG — WHAT I DO">
+</p>
+<table>
+<tr>
+<td valign="top" width="50%">
+#### 💼 What I Do
+- **[Work item 1]** — [description]
+- **[Work item 2]** — [description]
+- **[Work item 3]** — [description]
+- **[Work item 4]** — [description]
+> ✍️ [Read my articles →]([your article link])
+</td>
+<td valign="top" width="50%">
+#### 💻 Selected Open Source
+- 🧰 **[Project 1]** — [description]
+- 🎬 **[Project 2]** — [description]
+- 🪞 **[Project 3]** — [description]
+- 🍭 **[Project 4]** — [description]
+> 🗂️ [Explore all repositories →](https://github.com/hyejeongwong-max?tab=repositories)
+</td>
+</tr>
+</table>
+
+---
+<p align="center">
+  <img src="./assets/readme/section-connect-en-light.svg" width="100%" alt="GUILD HALL — CONNECT">
+</p>
+<div align="center">
+  <sub><strong>[Your motto: e.g. Make it clear. Make it useful. Make it real.]</strong></sub>
+</div>
